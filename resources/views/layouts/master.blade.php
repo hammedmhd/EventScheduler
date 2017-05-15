@@ -16,7 +16,7 @@
 	<script src='js/jquery-ui.min.js'></script>
 	<script src='fullcalendar/lib/moment.min.js'></script>
 	<script src='fullcalendar/fullcalendar.js'></script>
-    <title>Basmah</title>
+    <title>Event Scheduler</title>
     <style>
     	::-webkit-scrollbar {
 		      width: 8px;
